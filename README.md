@@ -6,7 +6,7 @@
 啦啦啦
 
 
-'''c++
+'''C++
 int main()
 {
   cout<<endl;
