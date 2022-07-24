@@ -12,3 +12,7 @@ int main()
   cout<<endl;
   return 0;
 }
+
+```python
+text = int(input("请输入一个数字"))
+print(str(text * 2), end="")
