@@ -4,3 +4,11 @@
 
 ### 2、嘿嘿
 啦啦啦
+
+
+'''c++
+int main()
+{
+  cout<<endl;
+  return 0;
+}
